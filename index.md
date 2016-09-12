@@ -14,7 +14,7 @@ Why is this applicant sharing a hedgehog GIFS with me, you might ask? Because, w
 
 For this cover letter, I'd like to share with you my experience with programming. How I got started, why I got started, how I continued to fuel this interest, little milestone, accomplishments and flops along the way etc.
 
-
+### The beginnings
 I got my first glimpse of programming when I was in High School in grade 10. It was nothing too crazy, a nice little intro into Java. It wasn't until grade 12 that I really started programming and experimenting with other technologies 'outside' the classroom. My first dive into this was with Android Development. I took the logic I had for a Black Jack card game I created and re-created it for my Android smartphone. Around this time is when I had my first real experience of accomplishment with programming. Knowing that I created an actually game, even though it wasn't super amazing or impressive, was such an amazing feeling.
 
 <img src="http://i.giphy.com/26uf2UQnd5JSci9DW.giff" alt="Happy Dance" height="42" width="42">
