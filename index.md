@@ -29,7 +29,7 @@ This was my first real glimpse into realizing how much of a n00b I was in progra
 
 Nonetheless I was very glad I went and surrounded myself with such helpful and motivating developers.
 
-### IEEE
+### Master of the web 
 When starting my second year (2014) of University, I got heavily involved with and eventually joined IEEE at Carleton as their Webmaster. As their Webmaster, I maintained a linux server hosting their website. I also ran a number of workshops for students. I hosted one on Introduction to web development, where I thought students the basics of HTML, CSS, JavaScript.
 
 ### 50 weeks at IBM
