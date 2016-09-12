@@ -9,10 +9,10 @@ Hope you're having a splendid day. My name's Ismail, a third year Software Engin
 <img src="https://media.giphy.com/media/3xz2BCohVTd7h2Kvfi/giphy.gif" alt="Hedgehog" height="42" width="42">
 
 
-Why is this applicant sharing a hedgehog GIFS with me, you might ask? Because, what other applicant starts off their cover letter with a hedgehog floating around a bath. That's right, none of them :)
+Why is this applicant sharing a hedgehog GIF with me, you might ask? Because, what other applicant starts off their cover letter with a hedgehog floating around in a bath tub. That's right, none of them :)
 
 
-For this cover letter, I'd like to share with you my experience with programming. How I got started, why I got started, how I continued to fuel this interest, little milestone, accomplishments and flops along the way etc.
+In this cover letter, I'd like to share with you my experience with programming. How I got started, why I got started, how I continued to fuel this interest, little milestone, accomplishments and flops along the way etc.
 
 ### Planting the seed
 I got my first glimpse of programming when I was in High School in grade 10. It was nothing too crazy, a nice little intro into Java. It wasn't until grade 12 that I really started programming and experimenting with other technologies 'outside' the classroom. My first dive into this was with Android Development. I took the logic I had for a Black Jack card game I created and re-created it for my Android smartphone. Around this time is when I had my first real experience of accomplishment with programming. Knowing that I created an actually game, even though it wasn't super amazing or impressive, was such an amazing feeling.
