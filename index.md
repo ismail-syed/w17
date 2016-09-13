@@ -31,16 +31,16 @@ Nonetheless, I was very glad I went and surrounded myself with such helpful and 
 In my second year (2014) of university, I got heavily involved with the IEEE Carleton student branch. I applied and got accepted for their Webmaster executive position. As their Webmaster, I maintained a linux server hosting their website. I also ran a number of workshops for students. One of which was an Introduction to web development workshop series, where I taught students the basics of HTML, CSS, JavaScript.
 
 ### 50 weeks at IBM
-Around this time, is also when I applied for co-op terms. I got offered a 12-month co-op at IBM as a Software Engineering. 
+Around this time, is also when I applied for co-op terms. I got offered a 12-month co-op at IBM as a Software Engineer. 
 
 <img src="http://i.giphy.com/ZwLTpUeYVJ0fS.gif" alt="IBM" height="42" width="42">
 My experience at IBM was quite amazing. I worked on a lot of front end tasks for the redesign of Cognos (a Business Analytics Platform) now known as Cognos Analytics. Throughout my co-op I worked with various designers and product managers to add new features, tweak features, update features and other various tasks. 
 
-I also got the opportunity to propose my redesign for a component within the product which got approved. I redesigned and redeveloped a majority of the component. The component was a toolbox widget that allows Report authors to drag a drop components into their reports, a vital component for authoring reports within the product. The new toolbox I created made it to the final product and has even been marketed as a newly redesigned feature through Cognos Analytics YouTube videos!
+I also got the opportunity to propose my redesign for a component within the product which got approved. I redesigned and redeveloped a majority of the component. The component was a toolbox widget that allows report authors to drag a drop components into their reports, a vital component for authoring reports within the product. The new toolbox I created made it to the final product and has even been marketed as a newly redesigned feature through Cognos Analytics YouTube videos!
 
 <img src="http://i.giphy.com/102h4wsmCG2s12.gif" alt="Success" height="42" width="42">
 
-After my 12 months of working as a co-op at IBM I returned to Carleton to finish my second year.
+After 12 months of working as a co-op at IBM I returned to Carleton to finish my second year.
 
 ### Exploring entrepreneurship
 After finishing my co-op and returning to school, my life sucked. I didn’t have as much time to program as before and I never was a fan of midterms and finals. So I decided to change that. 
