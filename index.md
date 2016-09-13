@@ -9,7 +9,7 @@ I hope you are having a splendid day. My name is Ismail Syed, I’m a third year
 <img src="https://media.giphy.com/media/3xz2BCohVTd7h2Kvfi/giphy.gif" alt="Hedgehog" height="42" width="42">
 
 
-You might be asking yourself “Why is this applicant sharing a hedgehog GIF with me?” All I have to say is what other applicant starts off their cover letter with an adorable fun little hedgehog floating around in a bathtub? That’s right, none of them. :)
+You might be asking yourself “Why is this applicant sharing a hedgehog GIF with me?” All I have to say is, what other applicant starts off their cover letter with an adorable fun little hedgehog floating around in a bathtub? That’s right, none of them. :)
 
 So now that I’ve hopefully got your attention, I am going to share my story about how programming came to be in my life. I’ll give you a little insight on how I got started, why I got started, how I continue to fuel this interest, little milestones, accomplishments and flops that I have had along the way.
 
