@@ -43,7 +43,7 @@ I also got the opportunity to propose my redesign for a component within the pro
 After my 12 months of working as a co-op at IBM I returned to Carleton to finish my second year.
 
 ### Exploring entrepreneurship
-After finishing my Co-op and returning to school, my life sucked. I didn’t have as much time to program as before and I never was a fan of midterms and finals. So I decided to change that. 
+After finishing my co-op and returning to school, my life sucked. I didn’t have as much time to program as before and I never was a fan of midterms and finals. So I decided to change that. 
 
 Near the end of the semester I decided to start advertising myself as a freelance web developer through a small web development company I started called <a href="http://www.revri.ca"> Revri </a>. Here’s the logo.
 
