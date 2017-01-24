@@ -16,7 +16,7 @@ So now that I’ve hopefully got your attention, I am going to share my story ab
 ### Planting the seed
 When I was in grade 10, I got my first glimpse of programming. It was a nice little intro into programming through Java, nothing too crazy though. It wasn’t until grade 12 that I really started programming and experimenting with other technologies ‘outside’ the classroom. My first dive into it was with Android Development. I took the logic I had for a Black Jack card game which I had created in grade 10 and I re-created it for my Android smartphone. Around this time is when I had my first real experience of accomplishment with programming. Knowing that I had created an actual game, it may not have been super impressive but it felt really accomplishing. 
 
-<img src="http://i.giphy.com/26uf2UQnd5JSci9DW.giff" alt="Happy Dance" height="42" width="42">
+<img src="http://i.giphy.com/26uf2UQnd5JSci9DW.gif" alt="Happy Dance" height="42" width="42">
 
 ### Random Hack of Kindness
 September 2013 is when I started my university experience at Carleton University. My first year in university also happens to be the same year I attended my first Hackathon. This Hackathon was hosted at the old Shopify building on York Street. It was the Random Hack of Kindness Hackathon, where groups are paired up with non-profit organizations to hack up a solution to problems they generally face within their organizations.
