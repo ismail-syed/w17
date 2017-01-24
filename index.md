@@ -17,7 +17,7 @@ For this cover letter, I'd like to share with you my experience with programming
 ### The beginnings
 I got my first glimpse of programming when I was in High School in grade 10. It was nothing too crazy, a nice little intro into Java. It wasn't until grade 12 that I really started programming and experimenting with other technologies 'outside' the classroom. My first dive into this was with Android Development. I took the logic I had for a Black Jack card game I created and re-created it for my Android smartphone. Around this time is when I had my first real experience of accomplishment with programming. Knowing that I created an actually game, even though it wasn't super amazing or impressive, was such an amazing feeling.
 
-<img src="http://i.giphy.com/26uf2UQnd5JSci9DW.giff" alt="Happy Dance" height="42" width="42">
+<img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" alt="Happy Dance" height="42" width="42">
 
 September 2013 is when I started my University experience at Carleton University. My first year in University is also when I attended my first Hackathon, which happened to be hosted at the old Shopify building on York Street. It was the Random Hack of Kindness Hackathon, where groups paired up with non-profit charities to hack up a nice solution to problems they general face in there organizations.
 
